@@ -12,7 +12,7 @@ StudyWMe is a cozy, lo-fi themed productivity web app designed for students who 
 
 ## 🌐 Project Preview
 
-![StudyWMe Landing Page Preview](https://sxth2105.github.io/StudyWMe_V2-KIT-School-Project-/)
+https://sxth2105.github.io/StudyWMe_V2-KIT-School-Project-/
 
 ---
 
